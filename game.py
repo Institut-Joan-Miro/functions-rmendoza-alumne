@@ -18,7 +18,7 @@ import pygame
 from settings import *
 from object import Group, Paddle, Ball
 from game_over import GameOver  # TASK 3
-from time import sleep # TASK 4
+from time import sleep # TASK 40
 
 # ================================================================
 
