@@ -21,7 +21,7 @@ from game_over import GameOver  # TASK 3
 from time import sleep # TASK 40
 
 # ================================================================
-
+# Aquesta és l'última versió
 
 # ================================================================
 # code
